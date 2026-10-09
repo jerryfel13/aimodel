@@ -1,0 +1,34 @@
+Project Brief: Customer Portal Redesign
+
+Overview:
+The customer portal redesign aims to modernize the self-service experience for our top-tier accounts. The current portal was launched five years ago and no longer meets accessibility standards or mobile expectations.
+
+Goals:
+- Increase self-service resolution rate from 58% to 75% by end of Q3.
+- Reduce average support ticket volume by 20% within six months of launch.
+- Achieve WCAG 2.1 AA accessibility compliance.
+
+Scope:
+The redesign covers the dashboard, invoice history, ticket submission, and knowledge base sections. The billing engine and authentication system are out of scope and will remain unchanged.
+
+Timeline:
+- Discovery and requirements validation: complete by March 15.
+- Design review with stakeholders: scheduled for April 2.
+- Implementation phase: April through July.
+- User acceptance testing: must be completed by July 25.
+- Launch: targeted for August 1, pending sign-off from the product owner.
+
+Key stakeholders:
+- Product owner: responsible for final scope decisions.
+- Engineering lead: will deliver weekly progress reports.
+- Design team: needs to prepare the component library by April 10.
+- Support team: should review the new ticket flow before UAT.
+
+Risks:
+The team has not yet validated the new invoice view with real users. We should schedule a usability test with five customers before implementation begins. The accessibility audit will need to be scheduled early to avoid delays.
+
+Next steps:
+1. The project manager will send the consolidated requirements document to all stakeholders by Friday.
+2. Engineering must prepare a technical spike for the SSO integration.
+3. Design needs to follow up on the empty-state illustrations.
+4. We need to confirm the budget for the accessibility audit by end of month.

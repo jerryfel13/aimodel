@@ -1,0 +1,13 @@
+month,region,product,revenue,units_sold,returns,customer_satisfaction
+2025-01,North,Alpha,48200,412,18,4.1
+2025-01,South,Beta,39100,355,12,4.3
+2025-02,North,Alpha,51900,445,15,4.2
+2025-02,South,Beta,41800,372,14,4.4
+2025-03,North,Alpha,47600,408,21,3.9
+2025-03,South,Beta,44500,398,9,4.6
+2025-04,North,Alpha,53400,461,11,4.5
+2025-04,South,Beta,46200,405,13,4.4
+2025-05,North,Alpha,56800,489,8,4.7
+2025-05,South,Beta,45100,399,16,4.2
+2025-06,North,Alpha,59200,512,7,4.8
+2025-06,South,Beta,48900,428,10,4.5
